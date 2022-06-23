@@ -1,7 +1,7 @@
 # Blockchain Node React
 
 I have build a Node.js API that will use Web3.js to interact with and retrieve data from the blockchain network, then send it back to the user on the browser app using React.
-> Project demonstrates how to develop a nodejs server as a middleware to make ordinary browsers possible to interact with smart contracts without using any third party plugins or extensions such as Metamask.
+> Project demonstrates how to develop a nodejs server as a middleware to make ordinary browsers possible to interact with smart contracts **without using any third party plugins or extensions such as Metamask.**
 
 
 
