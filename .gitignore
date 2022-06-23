@@ -2,7 +2,6 @@
 
 # dependencies
 /blockchain-node-api/node_modules
-/blockchain-node-api/migrations
 /blockchain-node-api/pnpm-lock.yaml
 /blockchain-node-api/.pnpm-debug.log
 /blockchain-node-api-react/node_modules
