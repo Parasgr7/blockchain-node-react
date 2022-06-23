@@ -45,6 +45,7 @@ nodemon server
 
 **React Server**
 ```
+cd blockchain-node-api-react
 npm install
 npm start
 ```
